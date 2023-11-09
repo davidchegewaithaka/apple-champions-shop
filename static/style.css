@@ -214,7 +214,7 @@ a {
 
 .btn-dark {
   --bs-btn-color: #212529;
-  --bs-btn-bg: transparent --bs-btn-border-color: #212529;
+  --bs-btn-bg: transparent; --bs-btn-border-color: #212529;
   --bs-btn-hover-color: #111111;
   --bs-btn-hover-bg: transparent;
   --bs-btn-hover-border-color: #373b3e;
